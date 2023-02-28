@@ -3,3 +3,4 @@ matplotlib >= 3.7.0
 scipy >= 1.10.1
 sympy >= 1.11.1
 networkx >= 3.0
+ipympl >= 0.9.3
